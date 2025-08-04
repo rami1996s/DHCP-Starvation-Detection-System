@@ -14,7 +14,7 @@ This project implements a lightweight, entropy-based system for **detecting and 
 
 ---
 
-##  What Is Entropy-Based Detection?
+##  What Is Entropy-Based Detection ?
 
 - **Shannon entropy** quantifies unpredictability in data.
 - Attack traffic often shows **low entropy** (repetitive MACs or uniform timing).
