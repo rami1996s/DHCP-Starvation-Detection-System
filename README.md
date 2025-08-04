@@ -56,7 +56,7 @@ DHCP is a core protocol for dynamically assigning IP addresses in networks. Howe
 - Combines both into a unified score: `H_total = f(H_MAC, H_IAT)`
 - Anomaly Trigger: `H_total < θ` (Threshold θ = 0.6)
 
-### 🛠 Implementation
+###  Implementation
 
 - Implemented in **Python** using the **Scapy** library
 - Input: `.pcap` files captured with `tcpdump`
